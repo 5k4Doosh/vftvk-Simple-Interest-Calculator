@@ -1,7 +1,7 @@
 body {
     background-color:black;
     font-family: arial;
-    color:white
+    color:white;
 }
 h1{
     color:grey;
@@ -11,9 +11,16 @@ h1{
 .maindiv {
     background-color:white;
     color:black;
-    width:500px;
+    width:30em;
     padding:20px;
+    margin: auto;
     border-radius: 25px;
-    align:center
+}
+table {
+    align-content: center;
+    padding-left: 15%;
+}
+td {
+    padding-bottom: 5px;
 }
 
